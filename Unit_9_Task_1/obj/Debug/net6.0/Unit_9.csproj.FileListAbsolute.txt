@@ -1,0 +1,15 @@
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\bin\Debug\net6.0\Unit_9.exe
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\bin\Debug\net6.0\Unit_9.deps.json
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\bin\Debug\net6.0\Unit_9.runtimeconfig.json
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\bin\Debug\net6.0\Unit_9.dll
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\bin\Debug\net6.0\Unit_9.pdb
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.csproj.AssemblyReference.cache
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.AssemblyInfoInputs.cache
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.AssemblyInfo.cs
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.csproj.CoreCompileInputs.cache
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.dll
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\refint\Unit_9.dll
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.pdb
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\Unit_9.genruntimeconfig.cache
+C:\Users\Просто Я\RiderProjects\Unit_9\Unit_9\obj\Debug\net6.0\ref\Unit_9.dll

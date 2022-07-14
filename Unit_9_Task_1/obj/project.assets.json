@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Просто Я\\RiderProjects\\Unit_9\\Unit_9\\Unit_9.csproj",
-      "projectName": "Unit_9",
-      "projectPath": "C:\\Users\\Просто Я\\RiderProjects\\Unit_9\\Unit_9\\Unit_9.csproj",
+      "projectUniqueName": "C:\\Users\\Просто Я\\RiderProjects\\Unit_9\\Unit_9_Task_1\\Unit_9_Task_1.csproj",
+      "projectName": "Unit_9_Task_1",
+      "projectPath": "C:\\Users\\Просто Я\\RiderProjects\\Unit_9\\Unit_9_Task_1\\Unit_9_Task_1.csproj",
       "packagesPath": "C:\\Users\\Просто Я\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Просто Я\\RiderProjects\\Unit_9\\Unit_9\\obj\\",
+      "outputPath": "C:\\Users\\Просто Я\\RiderProjects\\Unit_9\\Unit_9_Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Просто Я\\AppData\\Roaming\\NuGet\\NuGet.Config"
